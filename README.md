@@ -12,6 +12,7 @@
 	1. test the gradients of objective and constraint are correct
 	1. You should submit your code for testing at Travis, like last week.
 	1. To make sure that this works, please don't change any file or module names.
+	1. for a recap of how the travis hook works, please refer to the outline [posted at the unconstrained maximization homework](https://github.com/ScPo-CompEcon/HW_unconstrained)
 1. send a pull request 24h before next class.
 1. Questions in the ijulia notebook
 
