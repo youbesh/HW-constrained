@@ -5,6 +5,8 @@
 
 # Questions Branch: Portfolio problem
 
+[![Join the chat at https://gitter.im/ScPo-CompEcon/HW_constrained](https://badges.gitter.im/ScPo-CompEcon/HW_constrained.svg)](https://gitter.im/ScPo-CompEcon/HW_constrained?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 1. Fork this repo
 1. do the work
 1. make sure the tests run and pass
