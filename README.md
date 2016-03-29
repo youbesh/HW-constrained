@@ -3,28 +3,17 @@
 
 [![Build Status](https://travis-ci.org/ScPo-CompEcon/HW_constrained.svg?branch=solution)](https://travis-ci.org/ScPo-CompEcon/HW_constrained)
 
-## Solutions Branch: How to get this branch if you forked it with `github desktop`
+# Questions Branch: Portfolio problem
 
-* click on `sync`
-* select branch `ScPo-CompEcon/solution` (fourth button from top left)
-* solution code is now in your text editor.
-
-## Solutions Branch: How to get this branch on the command line
-
-* you need to add this repo as a new `remote` on your computer
-* go to the location of the repo on your computer
-* do this:
-
-```bash
-# add a new remote repository called upstream:
-git remote add upstream https://github.com/ScPo-CompEcon/HW_constrained.git
-
-# next, get all branches on that remote
-git fetch upstream
-
-# finally, to see the code on that branch, check it out:
-git checkout solution
-```
+1. Fork this repo
+1. do the work
+1. make sure the tests run and pass
+	1. you should test as you go along
+	1. test the gradients of objective and constraint are correct
+	1. You should submit your code for testing at Travis, like last week.
+	1. To make sure that this works, please don't change any file or module names.
+1. send a pull request 24h before next class.
+1. Questions in the ijulia notebook
 
 
 ## License
