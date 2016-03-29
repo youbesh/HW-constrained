@@ -1,7 +1,7 @@
 
 
 
-[![Build Status](https://travis-ci.org/ScPo-CompEcon/HW_constrained.svg?branch=solution)](https://travis-ci.org/ScPo-CompEcon/HW_constrained)
+[![Build Status](https://travis-ci.org/ScPo-CompEcon/HW_constrained.svg?branch=master)](https://travis-ci.org/ScPo-CompEcon/HW_constrained)
 
 # Questions Branch: Portfolio problem
 
