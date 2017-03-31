@@ -1,11 +1,11 @@
 
 
 
-[![Build Status](https://travis-ci.org/ScPo-CompEcon/HW_constrained.svg?branch=master)](https://travis-ci.org/ScPo-CompEcon/HW_constrained)
+[![Build Status](https://travis-ci.org/ScPo-CompEcon/HW_constrained.svg?branch=master)](https://travis-ci.org/ScPo-CompEcon/HW-constrained)
 
 # Questions Branch: Portfolio problem
 
-[![Join the chat at https://gitter.im/ScPo-CompEcon/HW_constrained](https://badges.gitter.im/ScPo-CompEcon/HW_constrained.svg)](https://gitter.im/ScPo-CompEcon/HW_constrained?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/ScPo-CompEcon/HW_constrained](https://badges.gitter.im/ScPo-CompEcon/HW-constrained.svg)](https://gitter.im/ScPo-CompEcon/HW-constrained?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 1. Fork this repo
 1. do the work
