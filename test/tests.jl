@@ -3,35 +3,36 @@
 
 module AssetTests
 
-	using FactCheck, HW_constrained
+	using Base.Test, HW_constrained
 
-	context("testing components") do
+	@testset "testing components" begin
 
-		facts("finite differences") do
-
-			@fact 3 --> 2
+		@testset "finite differences" begin
 
 
 		end
 
-		facts("test_finite_diff") do
-			
+		@testset "test_finite_diff" begin
 		end
 
 
-		facts("tests gradient of objective function") do
-			
+		@testset "tests gradient of objective function" begin
 		end
 
 
-		facts("tests gradient of constraint function") do
-		
+		@testset "tests gradient of constraint function" begin
 		end
 	end
 
-	context("testing result of both maximization methods") do
+	@testset "testing result of both maximization methods" begin
 
-		
+
+		@testset "checking result of NLopt maximization" begin
+		end
+
+
+		@testset "checking result of NLopt maximization" begin
+		end
 	end
 
 
